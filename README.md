@@ -1,2 +1,2 @@
-# Лабораторная работа №5 ([![Build Status](https://travis-ci.org/Cemiroling/Lab5.svg?branch=master)](https://travis-ci.org/Cemiroling/Lab5))
+# Лабораторная работа №5 ([![Build Status](https://travis-ci.org/Cemiroling/Lab6.svg?branch=master)](https://travis-ci.org/Cemiroling/Lab6))
 Программа выводит позицию первого элемента массива, равного введённому числу и находит число комбинаций двух положительных чисел, дающих в сумме введённое значение.
